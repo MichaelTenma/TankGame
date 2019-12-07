@@ -1,0 +1,6 @@
+MapType:binMap
+MapName:c.binMap
+MapSaveTime:20190926115743
+UserNumber:2
+Tank:tank_0,105,218,true,5,1,0,10,-3342388,10,1000,10,10,true,true
+Tank:tank_1,618,242,true,5,1,1,10,-10066177,10,1000,10,10,true,false

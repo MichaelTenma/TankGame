@@ -1,0 +1,4 @@
+﻿
+*.binMap
+	-is game map
+	-是地图文件
